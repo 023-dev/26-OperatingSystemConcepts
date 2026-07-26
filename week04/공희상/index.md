@@ -322,8 +322,3 @@ n = λ × W
 결정론적 모델이나 큐잉 모델보다 구체적으로 평가할 수 있지만,
 시뮬레이터를 만들고 실행하는 데 많은 시간과 비용이 든다.
 
----
-
-## 출처
-
-- [Operating System Concepts 정리 - Ch.05](https://vsfe.tistory.com/14)
